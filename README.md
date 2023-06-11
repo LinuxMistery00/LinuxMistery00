@@ -19,7 +19,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" width="40" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" width="40" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" width="40" />
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" width="40" />
+width="40" />
 <div>  
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramadorOrientadoaObjeto&layout=compact&langs_count=16&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProgramadorOrientadoaObjeto&theme=dark">
@@ -40,5 +40,4 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" width="40" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" width="40" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="60" width="40" />
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" width="40" />
 </div>
