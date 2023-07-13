@@ -1,5 +1,7 @@
-# Programador Orientado a Objeto FULLSTACK Developer :rocket: 
+# Programador Orientado a Objeto FULLSTACK Developer :rocket:
 
+<h1>About:</h1>
+<p>I'am Jr Programmer</p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
