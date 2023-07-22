@@ -14,7 +14,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramadorOrientadoaObjeto&layout=compact&langs_count=16&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProgramadorOrientadoaObjeto&theme=dark">
   <img align="center" height="180em" src="https://streak-stats.demolab.com/?user=ProgramadorOrientadoaObjeto&theme=dark"/>
-  <img align="center" height="18em" src="https://komarev.com/ghpvc/?username=ProgramadorOrientadoaObjeto&color=blueviolet">
+  <img align="center" height="19em" src="https://komarev.com/ghpvc/?username=ProgramadorOrientadoaObjeto&color=blueviolet">
 </div>
 
 <div>
