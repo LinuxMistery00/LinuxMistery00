@@ -25,5 +25,4 @@
 <h1>Studying:</h1>
 <h2>Code</h2>
 <div style="display: inline_block"><br>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" width="40" />
 </div>
