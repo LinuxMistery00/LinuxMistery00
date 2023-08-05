@@ -14,12 +14,9 @@
 <div>  
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramadorOrientadoaObjeto&layout=compact&langs_count=16&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProgramadorOrientadoaObjeto&theme=dark">
-  <img align="center" height="180em" src="https://streak-stats.demolab.com/?user=ProgramadorOrientadoaObjeto&theme=dark"/>
-  <img align="center" height="18em" src="https://komarev.com/ghpvc/?username=ProgramadorOrientadoaObjeto&color=blueviolet">
-  <a href="https://wakatime.com/@23c55239-999c-4c5b-b110-f53b26806031">
- <img width="500px" src="https://wakatime.com/badge/user/fd7c5213-ad6b-4b61-af70-a3dd0ff48b39.svg" alt="Total time coded since Nov 22 2022" />
-</a>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@23c55239-999c-4c5b-b110-f53b26806031" height="240em"/>
+<img align="center" height="180em" src="https://streak-stats.demolab.com/?user=ProgramadorOrientadoaObjeto&theme=dark"/>
+<img align="center" height="18em" src="https://komarev.com/ghpvc/?username=ProgramadorOrientadoaObjeto&color=blueviolet">
+<a href="https://wakatime.com/@23c55239-999c-4c5b-b110-f53b26806031"><img src="https://wakatime.com/badge/user/23c55239-999c-4c5b-b110-f53b26806031.svg" alt="Total time coded since Jun 20 2023" /></a>
 </div>
 <div>
   <img src="https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif" />
