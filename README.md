@@ -16,7 +16,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProgramadorOrientadoaObjeto&theme=dark">
   <img align="center" height="180em" src="https://streak-stats.demolab.com/?user=ProgramadorOrientadoaObjeto&theme=dark"/>
   <img align="center" height="18em" src="https://komarev.com/ghpvc/?username=ProgramadorOrientadoaObjeto&color=blueviolet">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@levieber" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@23c55239-999c-4c5b-b110-f53b268060311" height="240em"/>
 </div>
 <div>
   <img src="https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif" />
