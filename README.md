@@ -12,10 +12,10 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="60" width="40" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" width="40" />
   <div>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramadorOrientadoaObjeto&layout=compact&langs_count=16&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProgramadorOrientadoaObjeto&theme=dark">
-  <img align="center" height="180em" src="https://streak-stats.demolab.com/?user=ProgramadorOrientadoaObjeto&theme=dark"/>
-  <img align="center" height="18em" src="https://komarev.com/ghpvc/?username=ProgramadorOrientadoaObjeto&color=blueviolet">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinuxMistery00&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LinuxMistery00&theme=dark">
+  <img align="center" height="180em" src="https://streak-stats.demolab.com/?user=LinuxMistery00&theme=dark"/>
+  <img align="center" height="18em" src="https://komarev.com/ghpvc/?username=LinuxMistery00&color=blueviolet">
 </div>
 <div>
   <img src="https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif" />
