@@ -18,7 +18,7 @@
   <img align="center" height="18em" src="https://komarev.com/ghpvc/?username=LinuxMistery00&color=blueviolet">
 </div>
 <div>
-  <img src="https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif" />
+  <img src="[f](https://dribbble.com/shots/16379061-K-Form-Looping-Icon-animation-Lottie)" />
 </div>
 <h1>Studying:</h1>
 <h2>Code</h2>
