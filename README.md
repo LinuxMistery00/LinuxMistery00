@@ -1,4 +1,4 @@
-  # Programador Orientado a Objeto FULLSTACK Developer :rocket:
+  # Linux FULLSTACK Developer :rocket:
 [![wakatime](https://wakatime.com/badge/user/23c55239-999c-4c5b-b110-f53b26806031.svg)](https://wakatime.com/@23c55239-999c-4c5b-b110-f53b26806031)
   <div style="display: inline_block"><br>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
