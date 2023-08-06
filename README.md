@@ -10,7 +10,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" width="40" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" width="40" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="60" width="40" />
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" width="40" />
   <div>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinuxMistery00&layout=compact&langs_count=16&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LinuxMistery00&theme=dark">
@@ -23,5 +23,5 @@
 <h1>Studying:</h1>
 <h2>Code</h2>
 <div style="display: inline_block"><br>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" width="40" />
 </div>
