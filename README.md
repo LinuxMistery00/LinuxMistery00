@@ -18,7 +18,7 @@
   <img align="center" height="18em" src="https://komarev.com/ghpvc/?username=LinuxMistery00&color=blueviolet">
 </div>
 <div>
-  <img src="[[f](https://dribbble.com/shots/16379061-K-Form-Looping-Icon-animation-Lottie](https://cdn.dribbble.com/users/7094769/screenshots/16379061/media/27d863079a1c8955e2664197d600763d.gif)" />
+  <img src="[[[f](https://dribbble.com/shots/16379061-K-Form-Looping-Icon-animation-Lottie](https://cdn.dribbble.com/users/7094769/screenshots/16379061/media/27d863079a1c8955e2664197d600763d.gif)](https://cdn.dribbble.com/users/7094769/screenshots/16379061/media/27d863079a1c8955e2664197d600763d.gif)" />
 </div>
 <h1>Studying:</h1>
 <h2>Code</h2>
