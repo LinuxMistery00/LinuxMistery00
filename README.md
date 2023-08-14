@@ -14,9 +14,9 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60" width="40" />
   <div>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinuxMistery00&layout=compact&langs_count=16&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LinuxMystery00&theme=dark">
-  <img align="center" height="180em" src="https://streak-stats.demolab.com/?user=LinuxMystery00&theme=dark"/>
-  <img align="center" height="18em" src="https://komarev.com/ghpvc/?username=LinuxMystery00&color=blueviolet">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LinuxMistery00&theme=dark">
+  <img align="center" height="180em" src="https://streak-stats.demolab.com/?user=LinuxMistery00&theme=dark"/>
+  <img align="center" height="18em" src="https://komarev.com/ghpvc/?username=LinuxMistery00&color=blueviolet">
 </div>
 <div>
   <img src="https://cdn.dribbble.com/users/7094769/screenshots/16379061/media/27d863079a1c8955e2664197d600763d.gif" height="200em"/>
