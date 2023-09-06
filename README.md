@@ -15,7 +15,7 @@
   <div>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinuxMistery00&layout=compact&langs_count=16&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LinuxMistery00&theme=dark">
-  <img height="180em"   src="https://github-readme-stats.vercel.app/api/wakatime/?username=LinuxMistery00&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=5"/>
+  <img min-width="500vh"  src="https://github-readme-stats.vercel.app/api/wakatime/?username=LinuxMistery00&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=251"/>
   <img align="center" height="18em" src="https://komarev.com/ghpvc/?username=LinuxMistery00&color=blueviolet">
 </div>
 <div>
