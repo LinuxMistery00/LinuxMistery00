@@ -20,7 +20,6 @@
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinuxMistery00&layout=compact&langs_count=16&theme=dark"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LinuxMistery00&theme=dark">
     <img min-width="180em"  src="https://github-readme-stats.vercel.app/api/wakatime/?username=LinuxMistery00&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=8"/>
