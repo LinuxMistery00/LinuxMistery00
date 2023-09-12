@@ -27,7 +27,3 @@
 <div>
   <img src="https://cdn.dribbble.com/users/7094769/screenshots/16379061/media/27d863079a1c8955e2664197d600763d.gif" height="200em"/>
 </div>
-<h1>Studying:</h1>
-<h2>Code</h2>
-<div style="display: inline_block"><br>
-</div>
