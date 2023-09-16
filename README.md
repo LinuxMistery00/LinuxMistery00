@@ -22,6 +22,5 @@
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LinuxMistery00&theme=dark">
     <img min-width="180em"  src="https://github-readme-stats.vercel.app/api/wakatime/?username=LinuxMistery00&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=8"/>
-    <img max-height="50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinuxMistery00&layout=pie&langs_count=16&theme=dark"/>
 </div>
-
+<img max-height="50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinuxMistery00&layout=pie&langs_count=16&theme=dark"/>
