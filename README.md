@@ -24,6 +24,4 @@
     <img min-width="180em"  src="https://github-readme-stats.vercel.app/api/wakatime/?username=LinuxMistery00&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=8"/>
     <img max-height="50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinuxMistery00&layout=pie&langs_count=16&theme=dark"/>
 </div>
-<div>
-  <img src="https://cdn.dribbble.com/users/7094769/screenshots/16379061/media/27d863079a1c8955e2664197d600763d.gif" height="200em"/>
-</div>
+
