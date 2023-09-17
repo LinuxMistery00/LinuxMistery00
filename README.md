@@ -16,7 +16,7 @@
 ### Main skills:
 ![HTML5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-0D1117?style=for-the-badge&logo=CSS3&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
@@ -40,7 +40,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelCo007ACC1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 
-### Other Know007ACC
+### Other
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=007ACC&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
