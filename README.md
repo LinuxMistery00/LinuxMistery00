@@ -18,30 +18,28 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-0D1117?style=for-the-badge&logo=JAVASCRIPT&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
 ![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-0D1117?style=for-the-badge&logo=TYPESCRIPT&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=f1f2f3&l007ACClor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=f1f2f3&l007ACClor=0D1117)&nbsp;
+![NODEJS](https://img.shields.io/badge/-NODEJS-0D1117?style=for-the-badge&logo=JAVASCRIPT&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-0D1117?style=for-the-badge&logo=SASS&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
+![REACTJS](https://img.shields.io/badge/-REACTJS-0D1117?style=for-the-badge&logo=REACT&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
+![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-0D1117?style=for-the-badge&logo=BOOTSTRAP&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
+![BULMA](https://img.shields.io/badge/-BULMA-0D1117?style=for-the-badge&logo=BULMA&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
+![NEXTJS](https://img.shields.io/badge/-NEXTJS-0D1117?style=for-the-badge&logo=NEXTJS&logoColor=0D0D03&labelColor=0D1117)&nbsp;
+![ANGULARJS](https://img.shields.io/badge/-ANGULARJS-0D1117?style=for-the-badge&logo=ANGULAR&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
+![VUEJS](https://img.shields.io/badge/-VUEJS-0D1117?style=for-the-badge&logo=VUEJS&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
+![NESTJS](https://img.shields.io/badge/-NESTJS-0D1117?style=for-the-badge&logo=NESTJS&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
+![MONGODB](https://img.shields.io/badge/-MONGODB-0D1117?style=for-the-badge&logo=MONGODB&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
+![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-0D1117?style=for-the-badge&logo=POSTGRESQL&logoColor=f1f2f3&l007ACClor=0D1117)&nbsp;
 
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-007ACClogo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Pycharm](https://img.shields.io/badge/-Pycharm%20-0D1117?style=for-the-badge&logo=pycharm&logoColor=111213ACC&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelCo007ACC1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 
 ### Other
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=python&logoColor=007ACC&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
 ![SpringBoot](https://img.shields.io/badge/-Springboot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117&textColor=0D1117)&nbsp;
