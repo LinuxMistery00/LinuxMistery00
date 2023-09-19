@@ -27,6 +27,7 @@
 ![ANGULARJS](https://img.shields.io/badge/-ANGULARJS-0D1117?style=for-the-badge&logo=ANGULAR&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
 ![VUEJS](https://img.shields.io/badge/-VUEJS-0D1117?style=for-the-badge&logo=VUEJS&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
 ![NESTJS](https://img.shields.io/badge/-NESTJS-0D1117?style=for-the-badge&logo=NESTJS&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
+![FLASK](https://img.shields.io/badge/-FLASK-0D1117?style=for-the-badge&logo=FLASK&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
 ![MONGODB](https://img.shields.io/badge/-MONGODB-0D1117?style=for-the-badge&logo=MONGODB&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
 ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-0D1117?style=for-the-badge&logo=POSTGRESQL&logoColor=f1f2f3&l007ACClor=0D1117)&nbsp;
 
