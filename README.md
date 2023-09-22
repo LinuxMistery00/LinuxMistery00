@@ -30,7 +30,6 @@
 ![Visual Studio Code Community](https://img.shields.io/badge/-Visual%20Studio%20Code%20Community-0D1117?style=for-the-007ACClogo=visual-studio-code-community&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Pycharm](https://img.shields.io/badge/-Pycharm%20-0D1117?style=for-the-badge&logo=pycharm&logoColor=111213ACC&labelColor=0D1117)&nbsp;
 ![Intellij](https://img.shields.io/badge/-Intellij%20-0D1117?style=for-the-badge&logo=intellij&logoColor=111213ACC&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelCo007ACC1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
